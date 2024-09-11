@@ -23,12 +23,14 @@ The Paris 2024 Olympics Dashboard is a comprehensive tool for analyzing key metr
 
 ![Screenshot 2024-09-11 153148](https://github.com/user-attachments/assets/72fcab6c-9051-4a0e-937a-002a5be470ab)
 
-
-
-### Usage
-1. Open the Historical Insights page.
-2. Use the timeline filter to focus on specific Olympic years.
-3. Select a country from the dropdown menu to view its historical performance.
+## Features:
+1. Gender and age distribution of athletes over the years.
+2. Comparison of the total number of athletes across different sports, broken down by gender.
+3. Analysis of medal wins by age category and gender.
+Usage:
+1. Study changes in gender participation in the Olympic Games over time.
+2. Compare the popularity of different sports between genders.
+3. Analyze the relationship between age and athletic performance in different categories.performance.
 
 ## Page 2: Medal Breakdown<a name="page-4-medal-breakdown"></a>
 ![Screenshot 2024-09-11 153211](https://github.com/user-attachments/assets/d1d430ca-34a6-4f50-b3a2-7ec01cb8d6bc)
