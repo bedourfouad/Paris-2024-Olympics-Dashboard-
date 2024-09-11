@@ -27,7 +27,7 @@ The Paris 2024 Olympics Dashboard is a comprehensive tool for analyzing key metr
 1. Gender and age distribution of athletes over the years.
 2. Comparison of the total number of athletes across different sports, broken down by gender.
 3. Analysis of medal wins by age category and gender.
-Usage:
+## Usage:
 1. Study changes in gender participation in the Olympic Games over time.
 2. Compare the popularity of different sports between genders.
 3. Analyze the relationship between age and athletic performance in different categories.performance.
