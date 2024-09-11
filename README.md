@@ -33,11 +33,14 @@ The Paris 2024 Olympics Dashboard is a comprehensive tool for analyzing key metr
 ## Page 2: Medal Breakdown<a name="page-4-medal-breakdown"></a>
 ![Screenshot 2024-09-11 153211](https://github.com/user-attachments/assets/d1d430ca-34a6-4f50-b3a2-7ec01cb8d6bc)
 
-### Features
-1. Medal tally visualization with gold, silver, and bronze medal counts.
-2. Medal distribution by country and gender.
-3. Historical comparison of medal counts across multiple Olympic Games.
-
+Features
+Gender distribution of athletes over the years.
+Bar chart showing total athletes by discipline and gender.
+Pie charts summarizing medals won by age category and gender.
+Usage
+Visit the Athlete Details page to explore athlete demographics.
+Analyze the distribution of athletes by gender and discipline.
+Use the pie charts to gain insights into age-related trends in medal wins.
 
 ## Page 3: Country Performance<a name="page-2-country-performance"></a>
 
