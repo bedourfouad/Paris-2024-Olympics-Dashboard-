@@ -1,9 +1,7 @@
 # Paris 2024 Olympics Dashboard
 
 Welcome to the Paris 2024 Olympics Dashboard, an interactive data visualization tool designed to explore the history, performance, and statistics of the Olympic Games. This README file will guide you through the different pages and functionalities of the dashboard.
-To explore Paris 2024 Olympics data, you'll need Power BI installed. You can download the dataset used for this project from Kaggle: [Paris 2024 Olympics Dataset]
-(https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games).
-
+To explore Paris 2024 Olympics data, you'll need Power BI installed. You can download the dataset used for this project from Kaggle: [Paris 2024 Olympic Summer Games Dataset](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games)
 ## Table of Contents
 1. [Getting Started](#getting-started)
 2. [Dashboard Overview](#dashboard-overview)
@@ -32,7 +30,7 @@ The Paris 2024 Olympics Dashboard is a comprehensive tool for analyzing key metr
 ## Usage:
 1. Study changes in gender participation in the Olympic Games over time.
 2. Compare the popularity of different sports between genders.
-3. Analyze the relationship between age and athletic performance in different categories.performance.
+3. Analyze the relationship between age and athletic performance in different categories. performance.
 
 ## Page 2: Medal Breakdown<a name="page-4-medal-breakdown"></a>
 ![Screenshot 2024-09-11 153211](https://github.com/user-attachments/assets/d1d430ca-34a6-4f50-b3a2-7ec01cb8d6bc)
