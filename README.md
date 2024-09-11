@@ -14,10 +14,9 @@ Welcome to the Paris 2024 Olympics Dashboard, an interactive data visualization 
 ## Getting Started<a name="getting-started"></a>
 
 To start using the Paris 2024 Olympics Dashboard, simply access it through your preferred web browser. The dashboard is designed to be user-friendly and provides intuitive navigation to explore the rich history and data of the Olympic Games.
+![Screenshot 2024-09-11 153120](https://github.com/user-attachments/assets/fc06e58c-5916-4d2a-8528-5eff25956263)
 
 ## Dashboard Overview<a name="dashboard-overview"></a>
-
-![Screenshot 2024-09-11 153120](https://github.com/user-attachments/assets/fc06e58c-5916-4d2a-8528-5eff25956263)
 
 The Paris 2024 Olympics Dashboard is a comprehensive tool for analyzing key metrics and trends in Olympic history. It consists of four main pages, each focusing on different aspects of the Olympics, including historical data, country performance, athlete details, and medal breakdowns.
 
@@ -31,8 +30,7 @@ The Paris 2024 Olympics Dashboard is a comprehensive tool for analyzing key metr
 3. Select a country from the dropdown menu to view its historical performance.
 
 ## Page 2: Medal Breakdown<a name="page-4-medal-breakdown"></a>
-
-![Screenshot 2024-09-11 153148](https://github.com/user-attachments/assets/72fcab6c-9051-4a0e-937a-002a5be470ab)
+![Screenshot 2024-09-11 153211](https://github.com/user-attachments/assets/d1d430ca-34a6-4f50-b3a2-7ec01cb8d6bc)
 
 ### Features
 1. Medal tally visualization with gold, silver, and bronze medal counts.
@@ -68,22 +66,6 @@ The Paris 2024 Olympics Dashboard is a comprehensive tool for analyzing key metr
 1. Visit the Athlete Details page to explore athlete demographics.
 2. Analyze the distribution of athletes by gender and discipline.
 3. Use the pie charts to gain insights into age-related trends in medal wins.
-
-## Page 4: Medal Breakdown<a name="page-4-medal-breakdown"></a>
-
-![Medal Breakdown](Dashboard_Images/medals.png)
-
-### Features
-1. Medal tally visualization with gold, silver, and bronze medal counts.
-2. Medal distribution by country and gender.
-3. Historical comparison of medal counts across multiple Olympic Games.
-
-### Usage
-1. Access the Medal Breakdown page to explore detailed medal statistics.
-2. Compare medal counts across different countries and genders.
-3. Use the historical comparison chart to track trends over time.
-
-## Video Demonstration<a name="video-demonstration"></a>
 
 For a visual walkthrough of the Paris 2024 Olympics Dashboard, check out the video demonstration below. This video will guide you through the key features and functionalities of the dashboard, showing you how to navigate and extract valuable insights.
 
