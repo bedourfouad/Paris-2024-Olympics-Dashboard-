@@ -17,29 +17,33 @@ To start using the Paris 2024 Olympics Dashboard, simply access it through your 
 
 ## Dashboard Overview<a name="dashboard-overview"></a>
 
-![Dashboard Overview](Dashboard_Images/overview.png)
+![Screenshot 2024-09-11 153120](https://github.com/user-attachments/assets/fc06e58c-5916-4d2a-8528-5eff25956263)
 
 The Paris 2024 Olympics Dashboard is a comprehensive tool for analyzing key metrics and trends in Olympic history. It consists of four main pages, each focusing on different aspects of the Olympics, including historical data, country performance, athlete details, and medal breakdowns.
 
-- *Link to Dashboard in Action:* [Explore the Dashboard](https://www.example.com/olympics-dashboard)
+![Screenshot 2024-09-11 153148](https://github.com/user-attachments/assets/72fcab6c-9051-4a0e-937a-002a5be470ab)
 
-## Page 1: Historical Insights<a name="page-1-historical-insights"></a>
 
-![Historical Insights](Dashboard_Images/historical.png)
-
-### Features
-1. Stacked bar chart showing gold, silver, and bronze medals by year.
-2. Timeline filter to explore different Olympic years.
-3. Dynamic country selection to view specific nations' performance over time.
 
 ### Usage
 1. Open the Historical Insights page.
 2. Use the timeline filter to focus on specific Olympic years.
 3. Select a country from the dropdown menu to view its historical performance.
 
-## Page 2: Country Performance<a name="page-2-country-performance"></a>
+## Page 2: Medal Breakdown<a name="page-4-medal-breakdown"></a>
 
-![Country Performance](Dashboard_Images/country.png)
+![Screenshot 2024-09-11 153148](https://github.com/user-attachments/assets/72fcab6c-9051-4a0e-937a-002a5be470ab)
+
+### Features
+1. Medal tally visualization with gold, silver, and bronze medal counts.
+2. Medal distribution by country and gender.
+3. Historical comparison of medal counts across multiple Olympic Games.
+
+
+## Page 3: Country Performance<a name="page-2-country-performance"></a>
+
+![Screenshot 2024-09-11 153237](https://github.com/user-attachments/assets/a445ff52-b4b9-42c1-b1bf-171874de4dac)
+
 
 ### Features
 1. World map highlighting country performance based on total medal counts.
@@ -51,14 +55,14 @@ The Paris 2024 Olympics Dashboard is a comprehensive tool for analyzing key metr
 2. Explore the map to see how different countries performed in the Olympics.
 3. Hover over a country to view detailed medal counts.
 
-## Page 3: Athlete Details<a name="page-3-athlete-details"></a>
+#### Page 4: Historical Insights<a name="page-1-historical-insights"></a>
 
-![Athlete Details](Dashboard_Images/athletes.png)
+![Screenshot 2024-09-11 153304](https://github.com/user-attachments/assets/222e0e39-eab7-43e4-94e0-c3bbe7baf390)
 
 ### Features
-1. Gender distribution of athletes over the years.
-2. Bar chart showing total athletes by discipline and gender.
-3. Pie charts summarizing medals won by age category and gender.
+1. Stacked bar chart showing gold, silver, and bronze medals by year.
+2. Timeline filter to explore different Olympic years.
+3. Dynamic country selection to view specific nations' performance over time.
 
 ### Usage
 1. Visit the Athlete Details page to explore athlete demographics.
