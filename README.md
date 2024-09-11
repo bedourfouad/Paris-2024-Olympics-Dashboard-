@@ -14,7 +14,8 @@ Welcome to the Paris 2024 Olympics Dashboard, an interactive data visualization 
 ## Getting Started<a name="getting-started"></a>
 
 To start using the Paris 2024 Olympics Dashboard, simply access it through your preferred web browser. The dashboard is designed to be user-friendly and provides intuitive navigation to explore the rich history and data of the Olympic Games.
-![Screenshot 2024-09-11 153120](https://github.com/user-attachments/assets/fc06e58c-5916-4d2a-8528-5eff25956263)
+
+![Screenshot 2024-09-11 154219](https://github.com/user-attachments/assets/19373f6f-973e-4d3c-b854-535f51f7524d)
 
 ## Dashboard Overview<a name="dashboard-overview"></a>
 
