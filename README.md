@@ -76,3 +76,4 @@ The Paris 2024 Olympics Dashboard is a comprehensive tool for analyzing key metr
 For a visual walkthrough of the Paris 2024 Olympics Dashboard, check out the video demonstration below. This video will guide you through the key features and functionalities of the dashboard, showing you how to navigate and extract valuable insights.
 
 [![Watch Video](https://www.example.com/video-link)](https://github.com/user-attachments/assets/c935fd05-7c6c-4f19-8f41-c84142eecd7b)
+
